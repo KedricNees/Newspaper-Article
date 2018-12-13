@@ -1,0 +1,153 @@
+.nav{
+  text-decoration: overline;
+  text-align: center;
+  background-color: #C3EBFF;
+  padding: 1px;
+  margin: 8px;
+  margin-top: 15px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+
+}
+
+
+.articles{
+  width: 100%;
+  height: 900px;
+/*  background-color: #C3EBFF; */
+  margin: 0px;
+  font-size: 20px;
+}
+
+.nomination{
+  height: 800px;
+  width: 40%;
+  font-family: arial;
+  float: left;
+}
+
+.leslie{
+  float: left;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+.footer{
+width: 100%;
+height: 75px;
+/*background-color: #205E21; */
+}
+
+.line {
+  background-color: black;
+  width: 4px;
+  height: 800px;
+  float: left;
+  margin-top: 50px;
+}
+
+.line2{
+  background-color: black;
+  width: 100%;
+  height: 4px;
+  float: left;
+
+}
+
+.line3{
+  background-color: black;
+  width: 100%;
+  height: 4px;
+  float: left;
+  margin-top: 3px;
+}
+
+.line4{
+  background-color: black;
+  width: 100%;
+  height: 4px;
+
+  margin-bottom: 10px;
+}
+
+.ad {
+  font-family: Impact;
+  text-align: center;
+  font-size: 28px;
+}
+
+.dexhart{
+  width: 40%;
+  font-family: arial;
+  height: 800px;
+  float: right;
+}
+
+.ben{
+    width: 45%;
+    height: 800px;
+    float: left;
+    padding-right:20px;
+}
+
+.father{
+  font-family: arial;
+}
+
+.knope_exposed {
+  width: 45%;
+  height: 800px;
+  float: left;
+  padding-right:20px;
+}
+
+.continued{
+  padding-top: 5px;
+  margin: 10px;
+  width: 45%;
+  height: 800px;
+  float: left;
+  padding-right:20px;
+
+}
+
+.continued2 {
+  width: 40%;
+  font-family: arial;
+  height: 800px;
+  padding-top: 15px;
+}
+
+
+.column{
+  width: 30%;
+  height:850px;
+  padding: 1%;
+  /*background-color: #3DA5FF; */
+  margin: 10px;
+  float: left;
+  font-family: arial;
+}
+
+.column3{
+  width: 30%;
+  height:850px;
+  padding: 1%;
+  /*background-color: #3DA5FF; */
+  margin: 10px;
+  float: right;
+  font-family: arial;
+}
+
+.column2 {
+  width: 30%;
+  height:850px;
+  padding: 1%;
+  /*background-color: #3DA5FF; */
+  margin: 10px;
+  float: left;
+  font-family: arial;
+}
